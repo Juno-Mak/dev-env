@@ -1,0 +1,8 @@
+[user]
+	name = jzy9521
+	email = 542512297@qq.com
+[alias]
+	s = status
+	ci = commit
+	co = checkout
+	br = branch
