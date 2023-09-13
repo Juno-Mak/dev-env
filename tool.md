@@ -28,7 +28,7 @@ https://notepad-plus.en.softonic.com/download?ex=CS-1680.0
 
 https://github.com/notepad-plus-plus/notepad-plus-plus
 
-## typira
+## typora
 
 ### download
 
