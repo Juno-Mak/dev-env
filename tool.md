@@ -5,6 +5,7 @@
 ### download
 
 https://www.git-scm.com/downloads
+https://github.com/git/git
 
 ### config
 
